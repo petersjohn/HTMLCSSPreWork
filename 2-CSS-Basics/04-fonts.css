@@ -1,0 +1,24 @@
+.wrapper{
+    margin: 5px
+}
+/* 4 */
+
+p{
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+h2{
+    font-family: Verdana, sans-serif;
+}
+
+dt{
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+dd{
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+}
